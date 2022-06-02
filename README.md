@@ -4,8 +4,6 @@ Dosya direk exe açın kullanın Python olarak istieyen dc den ulaşsın CinuxYT
 
 1 Adım-Proxy çek 
 
-2 Test Et
+2 Kullan
 
-3 Kullan
-
-4 Adım kanalıma abone olup videoları beğenmeyi unutma
+3 Adım kanalıma abone olup videoları beğenmeyi unutma
